@@ -2,8 +2,6 @@
 
 I'll be using github as a storage space for my personal project.
 
-web: https://lazygreed.github.io
-
 web: https://kosal.dev
 
 @kanade3010
